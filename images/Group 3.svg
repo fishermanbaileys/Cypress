@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="298" height="142" viewBox="0 0 298 142">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #262626;
+        font-size: 12px;
+        font-family: Montserrat-Medium, Montserrat;
+        font-weight: 500;
+      }
+
+      .cls-3 {
+        fill: #2d5b44;
+        font-size: 14px;
+        font-family: Montserrat-Bold, Montserrat;
+        font-weight: 700;
+      }
+
+      .cls-4 {
+        filter: url(#Rectangle_Copy);
+      }
+    </style>
+    <filter id="Rectangle_Copy" x="0" y="0" width="298" height="142" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feFlood flood-color="#282e34" flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_3" data-name="Group 3" transform="translate(12 12)">
+    <g class="cls-4" transform="matrix(1, 0, 0, 1, -12, -12)">
+      <rect id="Rectangle_Copy-2" data-name="Rectangle Copy" class="cls-1" width="274" height="118" transform="translate(12 12)"/>
+    </g>
+    <text id="Non-Dilutive_Capital" data-name="Non-Dilutive Capital" class="cls-2" transform="translate(28 46)"><tspan x="-103.758" y="12">Non-Dilutive Capital from Cypress </tspan><tspan x="-103.326" y="30">can be a precursor to a Series A or </tspan><tspan x="-78.18" y="48">larger growth investment</tspan></text>
+    <text id="Bridging_the_Fundin" data-name="Bridging the “Fundin" class="cls-3" transform="translate(28 22)"><tspan x="-102.683" y="14">Bridging the “Funding Gap”</tspan></text>
+  </g>
+</svg>
